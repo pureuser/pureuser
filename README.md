@@ -36,12 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="Personal GitHub Stats" />
 </p>
-
-### Organization GitHub Stats
-
-<p align="center">
-![Organization's GitHub stats](https://github-readme-stats.vercel.app/api?username=Team-SecWind&show_icons=true&theme=radical)
-</p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
 </p>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chatchai Thongprasri</h1>
 <h3 align="center">A passionate Web Developer exploring new technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="chatchai-thongprasri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pureuser&label=Profile%20views&color=0e75b6&style=flat" alt="chatchai-thongprasri" /> </p>
 
 - 🔭 I’m currently working on **[BcDocs](https://github.com/Team-SecWind/BcDocs)**
 
@@ -60,11 +60,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="chatchai-thongprasri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="chatchai-thongprasri" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="chatchai-thongprasri" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
 </p>

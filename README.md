@@ -70,6 +70,8 @@
 </a>
 </p>
 
+ ---
+
 ## 📊 GitHub Stats
 
 ### Personal GitHub Stats

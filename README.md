@@ -85,3 +85,37 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
 </p>
+
+---
+
+## 🖥️ Portfolio
+
+Here are some of the projects I have worked on:
+
+- 🌐 **[SafeDriveDLT](https://safedrivedlt.com)**  
+  *A modern website for safe driving education and services.*  
+  **Status**: Active
+
+- 🚚 **[TSM Thai](https://tsm-thai.com)**  
+  *A professional website for logistics and supply chain solutions.*  
+  **Status**: Active
+
+- 🏡 **[BaanTada](http://www.baantada.com/)**  
+  *A website for showcasing real estate properties and developments.*  
+  **Status**: Inactive (No longer supported)
+
+- 🌴 **[The Palm Home](https://www.thepalmhome.com/)**  
+  *A real estate project with a focus on luxurious home living.*  
+  **Status**: Inactive (No longer supported)
+
+- 🏠 **[KlungBaan](https://www.klungbaan.com/)**  
+  *A property listing platform for finding and selling homes.*  
+  **Status**: Inactive (No longer supported)
+
+- 📈 **[Links Advisory](https://links-advisory.co.th/)**  
+  *A business consulting platform providing financial and strategic solutions.*  
+  **Status**: Active
+
+- 👶 **[KidsOER (SafeDriveDLT)](https://kidsoer.safedrivedlt.com/)**  
+  *A specialized website for educational content for kids under SafeDriveDLT.*  
+  **Status**: Active

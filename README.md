@@ -70,8 +70,11 @@
 <a href="https://analytics.google.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/>
 </a>
+<a href="https://tagmanager.google.com/" target="_blank">
+  <img src="./assets/google-tagmanager-logo.png" alt="Google Tag Manager" width="40" height="40"/>
+</a>
 <a href="https://dialogflow.cloud.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Dialogflow_logo.png" alt="Google Dialogflow" width="40" height="40"/>
+  <img src="./assets/dialogflow.jpg" alt="Google Dialogflow" width="40" height="40"/>
 </a>
 </p>
 

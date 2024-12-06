@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Chatchai Thongprasri
 🌟 I'm a passionate developer with a love for **Web Development**, and exploring new technologies.
 
 ## 🛠️ Skills
@@ -12,7 +12,6 @@
 
 ## 🌐 Connect with me
 - [LinkedIn](https://linkedin.com/in/chatchai-thongprasri-a67190162)
--
 
 ---
 "Keep coding and building awesome things!"

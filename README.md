@@ -97,13 +97,13 @@
 ### Organization GitHub Stats (SecwindTeam)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Team-SecWind&show_icons=true&theme=radical" alt="Organization GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=team-secwind&show_icons=true&theme=radical" alt="Organization GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Team-SecWind&theme=radical" alt="Organization Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=team-secwind&theme=radical" alt="Organization Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Team-SecWind&show_icons=true&locale=en&layout=compact&theme=radical" alt="Organization Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=team-secwind&show_icons=true&locale=en&layout=compact&theme=radical" alt="Organization Top Languages" />
 </p>
 
 ---

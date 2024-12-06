@@ -11,6 +11,20 @@
 
 - 📫 How to reach me **chatchai.thongprasri@example.com**
 
+---
+
+## 🛠️ Skills
+### **Languages**
+- JavaScript, TypeScript, CSS, HTML, GraphQL, RestAPI
+
+### **Frameworks**
+- Vue.js, React.js, Nuxt.js, Next.js, TailwindCSS, Wordpress
+
+### **Tools**
+- Figma, Git, Google Analytics, Google Tagmanager
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chatchai-thongprasri-a67190162" target="blank">

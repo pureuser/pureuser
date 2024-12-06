@@ -7,10 +7,9 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and advanced GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chatchai-thongprasri](https://github.com/pureuser)
+- 👨‍💻 All of my projects are available at [https://github.com/pureuser](https://github.com/pureuser)
 
-- 📫 How to reach me **purepure2553@gmail.com
-**
+- 📫 How to reach me **chatchai.thongprasri@example.com**
 
 ---
 
@@ -23,6 +22,20 @@
 
 ### **Tools**
 - Figma, Git, Google Analytics, Google Tagmanager
+
+---
+
+## 📊 GitHub Stats
+
+### Personal GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="Personal GitHub Stats" />
+</p>
+
+### Organization GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=organization-name&show_icons=true&theme=radical" alt="Organization GitHub Stats" />
+</p>
 
 ---
 
@@ -59,17 +72,10 @@
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
-
-</p>
-
-
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="chatchai-thongprasri" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
+<a href="https://analytics.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Analytics_Logo.svg/512px-Google_Analytics_Logo.svg.png" alt="google analytics" width="40" height="40"/>
+</a>
+<a href="https://tagmanager.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg" alt="google tag manager" width="40" height="40"/>
+</a>
 </p>

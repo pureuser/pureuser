@@ -40,7 +40,7 @@
 ### Organization GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=organization-name&show_icons=true&theme=radical" alt="Organization GitHub Stats" />
+![Organization's GitHub stats](https://github-readme-stats.vercel.app/api?username=Team-SecWind&show_icons=true&theme=radical)
 </p>
 
 ---

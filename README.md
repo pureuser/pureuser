@@ -42,7 +42,12 @@
 <p align="center">
 ![Organization's GitHub stats](https://github-readme-stats.vercel.app/api?username=Team-SecWind&show_icons=true&theme=radical)
 </p>
-
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
+</p>
 ---
 
 <h3 align="left">Connect with me:</h3>

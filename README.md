@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and advanced GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chatchai-thongprasri](https://github.com/chatchai-thongprasri)
+- 👨‍💻 All of my projects are available at [https://github.com/chatchai-thongprasri](https://github.com/pureuser)
 
-- 📫 How to reach me **chatchai.thongprasri@example.com**
+- 📫 How to reach me **purepure2553@gmail.com
+**
 
 ---
 

@@ -29,20 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-### Personal GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="Personal GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chatchai-thongprasri-a67190162" target="blank">
@@ -82,4 +68,18 @@
 <a href="https://tagmanager.google.com/" target="_blank">
   <img src="./assets/google-tagmanager-logo.png" alt="Google Tag Manager" width="40" height="40"/>
 </a>
+</p>
+
+## 📊 GitHub Stats
+
+### Personal GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="Personal GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
 </p>

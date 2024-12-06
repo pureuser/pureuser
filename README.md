@@ -9,18 +9,22 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pureuser](https://github.com/pureuser)
 
-- 📫 How to reach me **purepure2553@gmail.com**
+- 📫 How to reach me **<purepure2553@gmail.com>**
 
 ---
 
 ## 🛠️ Skills
+
 ### **Languages**
+
 - JavaScript, TypeScript, CSS, HTML, GraphQL, RestAPI
 
 ### **Frameworks**
+
 - Vue.js, React.js, Nuxt.js, Next.js, TailwindCSS, Wordpress
 
 ### **Tools**
+
 - Figma, Git, Google Analytics, Google Tagmanager
 
 ---
@@ -28,11 +32,13 @@
 ## 📊 GitHub Stats
 
 ### Personal GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="Personal GitHub Stats" />
 </p>
 
 ### Organization GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=organization-name&show_icons=true&theme=radical" alt="Organization GitHub Stats" />
 </p>
@@ -76,6 +82,6 @@
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/>
 </a>
 <a href="https://tagmanager.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Google_Tag_Manager_logo.png/512px-Google_Tag_Manager_logo.png" alt="Google Tag Manager" width="40" height="40"/>
+  <img src="./assets/google-tagmanager-logo.png" alt="Google Tag Manager" width="40" height="40"/>
 </a>
 </p>

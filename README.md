@@ -25,7 +25,12 @@
 
 ### **Tools**
 
-- Figma, Git, Google Analytics, Google Tagmanager
+- Figma, Git, Google Analytics, Google Tagmanager, SEO, Google Dialogflow
+
+### **Specialized Skills**
+
+- **SEO (Search Engine Optimization):** Expertise in optimizing websites for search engines, improving rankings, and increasing organic traffic.
+- **Line ChatBot Development:** Building intelligent chatbots for Line platform using Google Dialogflow for natural language processing and integration.
 
 ---
 
@@ -70,7 +75,7 @@
 </a>
 </p>
 
- ---
+---
 
 ## 📊 GitHub Stats
 
@@ -80,10 +85,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="Personal GitHub Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

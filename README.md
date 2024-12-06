@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pureuser](https://github.com/pureuser)
 
-- 📫 How to reach me **chatchai.thongprasri@example.com**
+- 📫 How to reach me **purepure2553@gmail.com**
 
 ---
 

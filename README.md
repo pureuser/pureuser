@@ -36,10 +36,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pureuser&show_icons=true&theme=radical" alt="Personal GitHub Stats" />
 </p>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pureuser&theme=radical" alt="chatchai-thongprasri" />
 </p>
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="chatchai-thongprasri" />
 </p>
 ---

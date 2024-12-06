@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pureuser&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### Organization GitHub Stats (SecwindTeam)
+<!-- ### Organization GitHub Stats (SecwindTeam)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=team-secwind&show_icons=true&theme=radical" alt="Organization GitHub Stats" />
@@ -104,7 +104,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=team-secwind&show_icons=true&locale=en&layout=compact&theme=radical" alt="Organization Top Languages" />
-</p>
+</p> -->
 
 ---
 

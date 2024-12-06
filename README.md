@@ -56,7 +56,17 @@
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://analytics.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Analytics_Logo.svg/512px-Google_Analytics_Logo.svg.png" alt="google analytics" width="40" height="40"/>
+</a>
+<a href="https://tagmanager.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_tagmanager/google_tagmanager-icon.svg" alt="google tag manager" width="40" height="40"/>
+</a>
 </p>
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pureuser&label=Profile%20views&color=0e75b6&style=flat" alt="chatchai-thongprasri" /> </p>
 
-- 🔭 I’m currently working on **[BcDocs](https://github.com/Team-SecWind/BcDocs)**
+- 🔭 I’m currently working on **[BcDocs](https://app-adc.github.io/vue-docs)**
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and advanced GraphQL**
 
@@ -144,6 +144,8 @@ Here are some of the projects I have worked on:
   *Developed a Line ChatBot using Google Dialogflow to provide customer support and interactive services.*  
   **Status**: Active
 
-- 📘 **[BcDocs](https://team-secwind.github.io/BcDocs/)**  
+- 📘 **[BcDocs](https://app-adc.github.io/vue-docs)**  
   *A collaborative documentation tool developed with SecwindTeam to create structured, user-friendly documentation.*  
   **Status**: Active
+
+<!-- /* ใช้ภาษาไทยเท่านั้นในคำอธิบาย */ -->

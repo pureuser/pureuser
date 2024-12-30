@@ -145,7 +145,9 @@ Here are some of the projects I have worked on:
   **Status**: Active
 
 - 📘 **[BcDocs](https://app-adc.github.io/vue-docs)**  
-  *A collaborative documentation tool developed with SecwindTeam to create structured, user-friendly documentation.*  
+  *A Vue 3 documentation component designed to generate and display developer-friendly documentation with ease. Built with SecwindTeam for enhanced maintainability and usability.*  
   **Status**: Active
 
-<!-- /* ใช้ภาษาไทยเท่านั้นในคำอธิบาย */ -->
+- 📗 **[Directives Docs](https://app-adc.github.io/directives-docs)**  
+  *A comprehensive documentation platform for custom Vue.js directives, with full TypeScript support, making it easy for developers to integrate and extend functionality.*  
+  **Status**: Active

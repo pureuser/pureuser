@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pureuser&label=Profile%20views&color=0e75b6&style=flat" alt="chatchai-thongprasri" /> </p>
 
-- 🔭 I’m currently working on **[BcDocs](https://app-adc.github.io/vue-docs)**
+- 🔭 I’m currently working on **[BcDocs](https://app-adc.github.io/vue-docs)** and **[Directives Docs](https://app-adc.github.io/directives-docs)**
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and advanced GraphQL**
 

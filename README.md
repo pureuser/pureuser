@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pureuser&label=Profile%20views&color=0e75b6&style=flat" alt="chatchai-thongprasri" /> </p>
 
-- 🔭 I’m currently working on **[BcDocs](https://app-adc.github.io/vue-docs)** and **[Directives Docs](https://app-adc.github.io/directives-docs)**
+- 🔭 I’m currently working on **[BcDocs](https://app-adc.github.io/vue-docs)**, **[Directives Docs](https://app-adc.github.io/directives-docs)**, and **[Calendar Docs](https://app-adc.github.io/calendar-docs)**
 
 - 🌱 I’m currently learning **Next.js, TypeScript, and advanced GraphQL**
 
@@ -150,4 +150,8 @@ Here are some of the projects I have worked on:
 
 - 📗 **[Directives Docs](https://app-adc.github.io/directives-docs)**  
   *A comprehensive documentation platform for custom Vue.js directives, with full TypeScript support, making it easy for developers to integrate and extend functionality.*  
+  **Status**: Active
+
+- 📅 **[Calendar Docs](https://app-adc.github.io/calendar-docs)**  
+  *A versatile, framework-agnostic TypeScript library for building and managing calendar functionalities, designed to integrate seamlessly with any environment.*  
   **Status**: Active

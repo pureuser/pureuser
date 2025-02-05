@@ -149,7 +149,7 @@ Here are some of the projects I have worked on:
   **Status**: Active
 
 - 📗 **[Directives Docs](https://app-adc.github.io/directive-docs)**  
-  *A comprehensive documentation platform for custom Vue.js directives, with full TypeScript support, making it easy for developers to integrate and extend functionality.*  
+  *A comprehensive documentation platform for custom javascript directives, with full TypeScript support, making it easy for developers to integrate and extend functionality.*  
   **Status**: Active
 
 - 📅 **[Calendar Docs](https://app-adc.github.io/calendar-docs)**  
